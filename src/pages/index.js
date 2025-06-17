@@ -91,10 +91,10 @@ const IndexPage = () => {
           Abstract
         </h2>
         <small className="mt-4">
-          Protocol Berg v2 is a conference focusing on protocol research, decentralized infrastructure, and
+          Protocol Berg v2 was a conference focusing on protocol research, decentralized infrastructure, and
           core-developer experience. The two-day event with multiple stages, opportunities for technical workshops, and
-          protocol community gatherings brings together protocol researchers and other stakeholders from different
-          decentralized protocols. Attendance is free of charge. The event will not host any sponsors or commercial
+          protocol community gatherings brought together protocol researchers and other stakeholders from different
+          decentralized protocols. Attendance was free of charge. The event did not host any sponsors or commercial
           talks.
         </small>
       </div>
@@ -170,20 +170,20 @@ const IndexPage = () => {
           1. Conference
         </h2>
         <p>
-          Protocol Berg v2 is a two-day technical conference targeting an audience of protocol/system/network engineers,
-          decentralized-infrastructure administrators, researchers, and other curious minds. Protocol Berg aims to bring
-          distributed technology ecosystems together to exchange concepts and technology, talk about shared open
-          problems, and learn from each other.
+          Protocol Berg v2 was a two-day technical conference targeting an audience of protocol/system/network
+          engineers, decentralized-infrastructure administrators, researchers, and other curious minds. Protocol Berg v2
+          aimed to bring distributed technology ecosystems together to exchange concepts and technology, talk about
+          shared open problems, and learn from each other.
         </p>
         <p>
-          Topics covered by the event orbits mainly around consensus protocols, distributed virtual machines,
+          Topics covered by the event mainly revolved around consensus protocols, distributed virtual machines,
           peer-to-peer networking, decentralized infrastructure, open-source governance, and protocol research.
         </p>
         <p>
-          Tickets will be free, as in <span className="italic">free lemonade</span>. All attendees have to adhere to the
+          Tickets were free, as in <span className="italic">free lemonade</span>. All attendees had to adhere to the
           event's <a href="/conduct">Code of Conduct</a>.
         </p>
-        <p>Protocol Berg v2 is a donation-backed, non-profit event. Therefore, there will be no sponsors.</p>
+        <p>Protocol Berg v2 was a donation-backed, non-profit event. Therefore, there were no sponsors.</p>
         <p>
           Follow us on{" "}
           <a href="https://x.com/protocol_berg" target="_blank" rel="noreferrer">

@@ -492,7 +492,7 @@ const placeEventOnSchedule = (event, timeslotDuration, speakers, isDarkMode) => 
     position: "absolute",
     height: eventSpanPixels,
     top: eventOffsetPixels,
-    opacity: isPast ? 0.4 : 1,
+    // opacity: isPast ? 0.4 : 1,
   };
 
   return <EventContainer event={event} eventStyle={eventStyle} speakers={speakers} isDarkMode={isDarkMode} />;

@@ -118,6 +118,9 @@ const IndexPage = () => {
             <li>
               <a href="#speakers">1.3 Speakers</a>
             </li>
+            <li>
+              <a href="#gallery">1.4 Gallery</a>
+            </li>
           </ul>
           <li>
             <a href="#cfp">2. Call for Participation</a>
@@ -245,6 +248,28 @@ const IndexPage = () => {
           <div className="flex items-center justify-center text-lg">
             <p>Figure 2: Speakers of Protocol Berg, 2025. </p>
           </div>
+        </div>
+      </section>
+
+      <section>
+        <h3 className="font-bold" id="gallery">
+          1.4 Gallery
+        </h3>
+        <div>
+          <p>
+            <a href="https://www.antontal.com/" target="_blank" rel="noreferrer">
+              Anton Tal
+            </a>{" "}
+            helped us to document Protocol Berg v2's unique atmosphere and people.
+          </p>
+          <p>
+            <a href="/gallery" className="ml-12">
+              /gallery
+            </a>
+          </p>
+          <p>
+            If you like the photos, please consider sending Anton a donation to <code>antontal.eth</code>
+          </p>
         </div>
       </section>
 

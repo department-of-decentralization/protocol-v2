@@ -108,8 +108,8 @@ const IndexPage = () => {
           </li>
           <ul className="pl-6">
             <li>
-              <a href="#livestream">
-                1.1 Livestream <GoVideo className="inline-block" />
+              <a href="#recordings">
+                1.1 Recordings <GoVideo className="inline-block" />
               </a>
             </li>
             <li>

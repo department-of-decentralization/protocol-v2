@@ -206,11 +206,11 @@ const IndexPage = () => {
           </a>
           .
         </p>
-        <h3 className="font-bold mt-8" id="livestream">
-          1.1 Livestream <GoVideo className="inline-block" />
+        <h3 className="font-bold mt-8" id="recordings">
+          1.1 Recordings <GoVideo className="inline-block" />
         </h3>
         <p>
-          You can watch the livestream at <br />
+          You can watch the recordings at <br />
           <a href="https://watch.protocol.berlin" target="_blank" rel="noreferrer" className="ml-12">
             watch.protocol.berlin
           </a>

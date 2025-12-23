@@ -209,12 +209,16 @@ const IndexPage = () => {
         <h3 className="font-bold mt-8" id="recordings">
           1.1 Recordings <GoVideo className="inline-block" />
         </h3>
+        <p>All recordings are available on our YouTube channel: </p>
         <p>
-          You can watch the recordings at <br />
-          <a href="https://watch.protocol.berlin" target="_blank" rel="noreferrer" className="ml-12">
-            watch.protocol.berlin
+          <a
+            href="https://www.youtube.com/@departmentofdecentralization/playlists"
+            target="_blank"
+            rel="noreferrer"
+            className="ml-12"
+          >
+            youtube.com/@departmentofdecentralization
           </a>
-          .
         </p>
         <h3 className="font-bold" id="schedule">
           1.2 Schedule
